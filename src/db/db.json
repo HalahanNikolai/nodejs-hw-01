@@ -57,5 +57,33 @@
     "phone": "640-493-9964",
     "email": "Everardo.Lind52@gmail.com",
     "job": "Direct Usability Coordinator"
+  },
+  {
+    "id": "94df8696-e208-44f6-a826-d34a61d0690a",
+    "name": "Devin Tillman",
+    "phone": "557-379-7580",
+    "email": "Dell_MacGyver@yahoo.com",
+    "job": "Human Implementation Engineer"
+  },
+  {
+    "id": "442042d6-d4f9-4ee1-89f7-bdcb25863767",
+    "name": "Dr. Alex Kihn",
+    "phone": "1-410-406-6854",
+    "email": "Reva37@gmail.com",
+    "job": "Internal Markets Strategist"
+  },
+  {
+    "id": "43cd07fb-d6b9-45d3-b6f5-bb4a18645892",
+    "name": "Erma Gleichner-Connelly",
+    "phone": "1-878-622-6783 x18636",
+    "email": "Juliet74@gmail.com",
+    "job": "Corporate Operations Producer"
+  },
+  {
+    "id": "3d145c26-a562-4dd1-bd75-7eb72dbc20da",
+    "name": "Travis Bashirian",
+    "phone": "718.429.2686 x4937",
+    "email": "Casimer_Stroman-Gleason25@yahoo.com",
+    "job": "Legacy Communications Associate"
   }
 ]
