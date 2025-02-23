@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "id": 0,
+        "name": "Nikolan Doe",
+        "email": "Nikolan@me.com",
+        "phone": "123456789"
+    },
+    {
+        "id": 1,
+        "name": "Johnnn Doe",
+        "email": "Johnnn@me.com",
+        "phone": "123456789"
+    },
+    {
+        "id": 2,
+        "name": "Loran Doe",
+        "email": "Loran@me.com",
+        "phone": "987654321"
+    },
+    {
+        "id": 3,
+        "name": "Lorh Sue",
+        "email": "Lorah@me.com",
+        "phone": "987654321"
+    }
+]
